@@ -1,10 +1,10 @@
 ---
-title: Privacy Policy – Scientific Name to Common Name
+title: Privacy Policy – Sc2Common
 ---
 
 # プライバシーポリシー / Privacy Policy
 
-**学名 → 一般名 (Scientific Name to Common Name)** Chrome 拡張機能
+**Sc2Common** Chrome 拡張機能 / Chrome extension
 
 最終更新日 / Last updated: 2026-10-26
 

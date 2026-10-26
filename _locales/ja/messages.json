@@ -1,8 +1,8 @@
 {
-  "extName": { "message": "学名 → 一般名 (Scientific Name to Common Name)" },
+  "extName": { "message": "Sc2Common" },
   "extDescription": { "message": "学名から和名・英名・分類を調べます（GBIF / Wikidata）" },
 
-  "popupTitle": { "message": "学名 → 一般名" },
+  "popupTitle": { "message": "Sc2Common" },
   "menuTitle": { "message": "学名から一般名を調べる" },
 
   "errorNotScientificName": { "message": "学名として認識できません" },
