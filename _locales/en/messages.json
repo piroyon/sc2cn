@@ -1,8 +1,8 @@
 {
-  "extName": { "message": "Sc2Common" },
+  "extName": { "message": "Sci2Common" },
   "extDescription": { "message": "Look up English and Japanese common names and classification for scientific names (GBIF / Wikidata)" },
 
-  "popupTitle": { "message": "Sc2Common" },
+  "popupTitle": { "message": "Sci2Common" },
   "menuTitle": { "message": "Look up common name" },
 
   "errorNotScientificName": { "message": "Not a scientific name" },

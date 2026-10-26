@@ -1,8 +1,8 @@
 ---
-title: Sc2Common
+title: Sci2Common
 ---
 
-# Sc2Common
+# Sci2Common
 
 ウェブページ上の生物の学名から、和名・英名・分類・写真を調べる Chrome 拡張機能です。
 A Chrome extension that looks up English and Japanese common names, classification and photos for scientific names on web pages.

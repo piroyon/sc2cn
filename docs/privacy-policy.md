@@ -1,10 +1,10 @@
 ---
-title: Privacy Policy – Sc2Common
+title: Privacy Policy – Sci2Common
 ---
 
 # プライバシーポリシー / Privacy Policy
 
-**Sc2Common** Chrome 拡張機能 / Chrome extension
+**Sci2Common** Chrome 拡張機能 / Chrome extension
 
 最終更新日 / Last updated: 2026-10-26
 
