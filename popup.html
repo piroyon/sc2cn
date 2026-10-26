@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title data-i18n="extName"></title>
+  <style>
+    body {
+      width: 260px;
+      margin: 0;
+      padding: 14px 16px;
+      font: 13px/1.5 system-ui, -apple-system, "Hiragino Sans", sans-serif;
+      color: #222;
+    }
+    h1 { font-size: 15px; margin: 0 0 10px; }
+    button {
+      width: 100%;
+      padding: 7px;
+      font: inherit;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    #status { min-height: 1.5em; margin: 8px 0 0; color: #555; }
+    #status.error { color: #b00020; }
+    .help { margin: 12px 0 0; padding-top: 10px; border-top: 1px solid #ddd; color: #555; font-size: 12px; }
+    .help p { margin: 0 0 6px; }
+  </style>
+</head>
+<body>
+  <h1 data-i18n="popupTitle"></h1>
+  <button id="toggle" data-i18n="highlightOn"></button>
+  <p id="status"></p>
+  <div class="help">
+    <p data-i18n="helpHighlight"></p>
+    <p data-i18n="helpRightClick"></p>
+    <p data-i18n="helpData"></p>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

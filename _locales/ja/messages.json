@@ -1,0 +1,52 @@
+{
+  "extName": { "message": "学名 → 一般名 (Scientific Name to Common Name)" },
+  "extDescription": { "message": "学名から和名・英名・分類を調べます（GBIF / Wikidata）" },
+
+  "popupTitle": { "message": "学名 → 一般名" },
+  "menuTitle": { "message": "学名から一般名を調べる" },
+
+  "errorNotScientificName": { "message": "学名として認識できません" },
+  "errorNotScientificNameWithText": {
+    "message": "学名として認識できません: $TEXT$",
+    "placeholders": { "text": { "content": "$1", "example": "hello world" } }
+  },
+  "errorLookupFailed": { "message": "検索に失敗しました" },
+  "errorTimeout": { "message": "応答がありません（タイムアウト）" },
+  "errorTooManyRequests": { "message": "リクエストが多すぎます。しばらく待ってから試してください" },
+
+  "searching": { "message": "検索中…" },
+  "notFound": { "message": "一般名が見つかりませんでした" },
+  "synonymNote": {
+    "message": "「$NAME$」は旧学名（シノニム）です",
+    "placeholders": { "name": { "content": "$1", "example": "Salmo gairdneri" } }
+  },
+  "matchedNote": {
+    "message": "「$QUERY$」→「$MATCHED$」として検索しました",
+    "placeholders": {
+      "query": { "content": "$1", "example": "Danio reiro" },
+      "matched": { "content": "$2", "example": "Danio rerio" }
+    }
+  },
+  "photoCredit": { "message": "写真:" },
+  "wikipediaJa": { "message": "Wikipedia (日本語)" },
+  "wikipediaEn": { "message": "Wikipedia (英語)" },
+  "close": { "message": "閉じる" },
+
+  "rankKingdom": { "message": "界" },
+  "rankPhylum": { "message": "門" },
+  "rankClass": { "message": "綱" },
+  "rankOrder": { "message": "目" },
+  "rankFamily": { "message": "科" },
+
+  "highlightOn": { "message": "このページの学名をハイライト" },
+  "highlightOff": { "message": "ハイライトを解除" },
+  "highlightCount": {
+    "message": "$COUNT$ 件の学名に下線を引きました",
+    "placeholders": { "count": { "content": "$1", "example": "11" } }
+  },
+  "highlightNone": { "message": "斜体の学名が見つかりませんでした" },
+  "unavailableHere": { "message": "このページでは使えません" },
+  "helpHighlight": { "message": "ハイライト：ページ内の斜体の学名に下線を引きます。マウスを乗せると和名・英名・分類を表示します。" },
+  "helpRightClick": { "message": "右クリック：学名を選択して右クリック →「学名から一般名を調べる」" },
+  "helpData": { "message": "データ：GBIF、Wikidata" }
+}

@@ -1,0 +1,52 @@
+{
+  "extName": { "message": "Scientific Name to Common Name" },
+  "extDescription": { "message": "Look up English and Japanese common names and classification for scientific names (GBIF / Wikidata)" },
+
+  "popupTitle": { "message": "Scientific → Common Name" },
+  "menuTitle": { "message": "Look up common name" },
+
+  "errorNotScientificName": { "message": "Not a scientific name" },
+  "errorNotScientificNameWithText": {
+    "message": "Not a scientific name: $TEXT$",
+    "placeholders": { "text": { "content": "$1", "example": "hello world" } }
+  },
+  "errorLookupFailed": { "message": "Lookup failed" },
+  "errorTimeout": { "message": "No response (timed out)" },
+  "errorTooManyRequests": { "message": "Too many requests. Please wait a moment and try again." },
+
+  "searching": { "message": "Searching…" },
+  "notFound": { "message": "No common name found" },
+  "synonymNote": {
+    "message": "\"$NAME$\" is an older name (synonym)",
+    "placeholders": { "name": { "content": "$1", "example": "Salmo gairdneri" } }
+  },
+  "matchedNote": {
+    "message": "Searched \"$QUERY$\" as \"$MATCHED$\"",
+    "placeholders": {
+      "query": { "content": "$1", "example": "Danio reiro" },
+      "matched": { "content": "$2", "example": "Danio rerio" }
+    }
+  },
+  "photoCredit": { "message": "Photo:" },
+  "wikipediaJa": { "message": "Wikipedia (Japanese)" },
+  "wikipediaEn": { "message": "Wikipedia (English)" },
+  "close": { "message": "Close" },
+
+  "rankKingdom": { "message": "Kingdom" },
+  "rankPhylum": { "message": "Phylum" },
+  "rankClass": { "message": "Class" },
+  "rankOrder": { "message": "Order" },
+  "rankFamily": { "message": "Family" },
+
+  "highlightOn": { "message": "Highlight scientific names" },
+  "highlightOff": { "message": "Remove highlights" },
+  "highlightCount": {
+    "message": "Underlined $COUNT$ scientific names",
+    "placeholders": { "count": { "content": "$1", "example": "11" } }
+  },
+  "highlightNone": { "message": "No italicized scientific names found" },
+  "unavailableHere": { "message": "Not available on this page" },
+  "helpHighlight": { "message": "Highlight: underlines italicized scientific names on the page. Hover over one to see its common names and classification." },
+  "helpRightClick": { "message": "Right-click: select a scientific name, right-click and choose \"Look up common name\"." },
+  "helpData": { "message": "Data: GBIF, Wikidata" }
+}
