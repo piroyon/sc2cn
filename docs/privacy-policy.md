@@ -32,8 +32,8 @@ title: Privacy Policy – Scientific Name to Common Name
 
 通常のウェブ通信と同様に、これらのサービスには IP アドレスやブラウザの種類（User-Agent）が伝わります。これらの情報の扱いは各サービスのプライバシーポリシーに従います。
 
-- GBIF: https://www.gbif.org/terms/privacy-policy
-- Wikimedia Foundation: https://foundation.wikimedia.org/wiki/Policy:Privacy_policy
+- GBIF: <https://www.gbif.org/terms/privacy-policy>
+- Wikimedia Foundation: <https://foundation.wikimedia.org/wiki/Policy:Privacy_policy>
 
 ### 2. 送信・収集しない情報
 本拡張機能は次の情報を送信・収集しません。
@@ -59,7 +59,7 @@ title: Privacy Policy – Scientific Name to Common Name
 本ポリシーを変更する場合は、このページを更新し、最終更新日を改めます。
 
 ### 7. お問い合わせ
-ご質問・ご要望は GitHub の Issues へお寄せください：https://github.com/piroyon/sc2cn/issues
+ご質問・ご要望は GitHub の Issues へお寄せください：<https://github.com/piroyon/sc2cn/issues>
 
 ---
 
@@ -85,8 +85,8 @@ Text that does not look like a scientific name (e.g. "Danio rerio") is not sent.
 
 As with any web request, these services receive your IP address and browser type (User-Agent). They handle this according to their own privacy policies:
 
-- GBIF: https://www.gbif.org/terms/privacy-policy
-- Wikimedia Foundation: https://foundation.wikimedia.org/wiki/Policy:Privacy_policy
+- GBIF: <https://www.gbif.org/terms/privacy-policy>
+- Wikimedia Foundation: <https://foundation.wikimedia.org/wiki/Policy:Privacy_policy>
 
 ### 2. Information not sent or collected
 The extension does not send or collect:
@@ -112,4 +112,4 @@ Result cards link to Wikipedia, GBIF, Wikidata and Wikimedia Commons. Those site
 If this policy changes, this page will be updated along with the "Last updated" date.
 
 ### 7. Contact
-Questions and requests are welcome on GitHub Issues: https://github.com/piroyon/sc2cn/issues
+Questions and requests are welcome on GitHub Issues: <https://github.com/piroyon/sc2cn/issues>
