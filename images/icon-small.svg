@@ -13,6 +13,6 @@
     </g>
     <!-- body and head -->
     <ellipse cx="0" cy="-1" rx="11" ry="22" fill="#fff"/>
-    <path d="M-12 -26 C -12 -38, -6 -44, 0 -44 C 6 -44, 12 -38, 12 -26 C 12 -20, 7 -17, 0 -17 C -7 -17, -12 -20, -12 -26 Z" fill="#fff"/>
+    <circle cx="0" cy="-31" r="14.5" fill="#fff"/>
   </g>
 </svg>
